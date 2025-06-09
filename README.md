@@ -1,3 +1,3 @@
 workshop
 <br>
-first changescin readme
+first changes in readme
